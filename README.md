@@ -16,7 +16,7 @@ Os dados utilizados neste estudo são os Microdados do ENEM, disponibilizados pu
 
 A metodologia adotada para esta análise pode ser resumida nas seguintes etapas:
 
-1.  **Tratamento dos Dados:** A análise foca em alunos que estavam cursando o último ano do ensino médio, a fim de garantir maior homogeneidade da amostra[cite: 56].
+1.  **Tratamento dos Dados:** A análise foca em alunos que estavam cursando o último ano do ensino médio, a fim de garantir maior homogeneidade da amostra.
 
 2.  **Pareamento (Matching):** Para garantir uma comparação justa entre os grupos, foi utilizada a técnica de *matching* exato. Para cada aluno indígena, foi identificado um aluno não indígena com perfil socioeconômico e demográfico similar (faixa etária, tipo de escola, renda, escolaridade dos pais, etc.), reduzindo, assim, possíveis vieses na análise.
 
